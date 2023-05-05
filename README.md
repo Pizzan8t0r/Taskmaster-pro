@@ -27,6 +27,9 @@ Open Iconic is an open source icon font set that can help add meaning to element
     
 jQuery provides shorter methods to find and manipulate DOM elements, add event listeners, and perform other common JavaScript-related tasks. Plain JavaScript can do everything jQuery does, but many developers find the jQuery syntax easier to remember and type.
 
+<img width="1440" alt="Screenshot 2023-05-05 at 14 43 02" src="https://user-images.githubusercontent.com/131811220/236574054-27c1061b-e516-4b0c-90fc-815f50f9586b.png">
+<img width="1440" alt="Screenshot 2023-05-05 at 14 46 12" src="https://user-images.githubusercontent.com/131811220/236574064-64831faa-03c9-4c10-b9c3-8891ed09cbde.png">
 
-# deployment 
+# Deployment 
+
 https://pizzan8t0r.github.io/Taskmaster-pro/
