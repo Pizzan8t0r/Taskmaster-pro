@@ -2,7 +2,8 @@
  A task-management application which was built using jQuery, a third-party JavaScript library that simplifies DOM manipulation, and the front-end CSS library Bootstrap.
  Taskmaster incorporates third-party libraries like jQuery and Bootstrap. These libraries don't replace regular JavaScript and CSS; instead, they add new methods and classes that expedite development
  
-## tools used for this web app
+## Tools used for this web app:
+
 Bootstrap is an open source responsive front-end component library for developing with HTML, CSS, and JS. It uses a responsive grid system to allow for quick layouts in both development and production.
 
 jQuery is the most popular JavaScript library in the world. It simplifies DOM traversal and manipulation, event handling, and animation with an easy-to-use API.
