@@ -18,7 +18,7 @@ Google Fonts is a library of over 900 free licensed fonts, with an API for conve
 
 Open Iconic is an open source icon font set that can help add meaning to elements of your website. 
 
-### skills aquired building this app:
+### skills acquired building this app:
 
    - Learn to consult documentation when faced with new libraries.
    - Traverse and manipulate the DOM using jQuery methods.
